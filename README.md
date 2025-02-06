@@ -1,8 +1,8 @@
-Financial Stock analysis Multi AI Agent
+**Financial Stock analysis Multi AI Agent**
 
 Summarize analyst recommendation and share the latest news on several stocks
 
-Tech Stack
+**Tech Stack**
 
 📊 Phidata - a framework for building multi-modal agents and workflows, 
 
